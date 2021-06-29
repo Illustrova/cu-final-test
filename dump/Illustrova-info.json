@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8334,
+  "followers_count": 8336,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,7 +35,7 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21774,
+  "statuses_count": 21773,
   "lang": null,
   "status": {
     "created_at": "Tue Jun 29 13:07:41 +0000 2021",
@@ -73,7 +73,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 71,
+    "favorite_count": 84,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
