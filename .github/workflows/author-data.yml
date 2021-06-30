@@ -2,8 +2,8 @@ name: Check and save author data
 
 # Check if the new author had updated data in the profile, and once it looks updated - collect image and description.
 on: 
-  schedule:
-    - cron: "0 * * * *"
+#   schedule:
+#     - cron: "0 * * * *"
   push:
     branches:
       - 'master'
